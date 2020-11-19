@@ -1,4 +1,4 @@
-<h1 align="center">GoStack Modulo 01</h1>
+<h1 align="center">GoStack Modulo 02</h1>
 <!-- <img alt="Proffy" src="./github/banner.png"> -->
 <p align="center">
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/jeffessongomes/node-challenge-waffle?style=for-the-badge">
