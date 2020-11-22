@@ -34,7 +34,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 ### :triangular_ruler: **Status do Projeto**
 
 <h4 align="center"> 
-	👨‍🏫 O desafio está em andamento !
+	👨‍🏫 O desafio está concluido!
 </h4>
 
 ### :dvd: **Executar o Projeto**
